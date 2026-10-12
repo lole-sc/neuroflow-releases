@@ -22,11 +22,13 @@ You only do this once. On macOS 14 and earlier, right-click → **Open** in Find
 
 ## Verify the download
 
+Latest: **1.0.2** ([release notes](https://github.com/lole-sc/neuroflow-releases/releases/tag/v1.0.2)).
+
 ```
-shasum -a 256 NeuroFlow-1.0.0-arm64.dmg
+shasum -a 256 NeuroFlow-1.0.2-arm64.dmg
 ```
 
-`529d9163dc95f9b7e1376d22fb602dd2df2c3cea2ddc2c8d75e14f4f37b9b739`
+`5e9f9fd84a1ca10e84da226de4286468910a28a104eb5c7bc1fd90a62d0d9847`
 
 ## What's inside
 
